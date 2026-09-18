@@ -11,4 +11,4 @@ Projeto desenvolvido para praticar JavaScript e lógica de programação.
 - Quantidade de aprovados e reprovados
 - Distribuição das notas por faixa
 
-V1
+Versão 1
