@@ -97,4 +97,38 @@ situacoes()
 
 A ideia dessa versão não foi criar o código mais avançado possível, mas aplicar os conceitos que eu havia acabado de aprender.
 
-## 📌 P
+## 📌 Próximos passos
+
+Este projeto continuará sendo utilizado como uma forma de acompanhar minha evolução em JavaScript.
+
+Possíveis melhorias futuras:
+
+Melhorar a estrutura dos dados dos alunos
+
+Utilizar objetos para representar cada aluno
+
+Criar funções ainda mais independentes
+
+Melhorar a validação das entradas
+
+Criar uma interface gráfica
+
+Integrar com HTML e CSS
+
+Transformar o projeto em uma aplicação web
+
+Adicionar armazenamento dos dados
+
+Criar novas versões conforme eu aprender JavaScript
+
+🧠 Sobre o projeto
+
+Este projeto começou como um exercício de lógica e acabou se tornando uma forma de acompanhar minha evolução como programador.
+
+A ideia é manter as versões antigas para poder comparar meu código no futuro e enxergar o quanto evoluí.
+
+"Se no futuro eu olhar para esse código e achar ele ruim, significa que eu melhorei."
+
+Versão 2 finalizada em 21/09/2026.
+
+Feito por Davi.
